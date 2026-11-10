@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/home/ferdin/ironman/.venv/bin/python",
+    "python.interpreterPath": "/home/ferdin/ironman/.venv/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.extraPaths": [
+        "/home/ferdin/ironman/.venv/lib/python3.12/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticMode": "workspace",
+    "python.languageServer": "Pylance"
+}
